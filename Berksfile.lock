@@ -6,7 +6,7 @@ DEPENDENCIES
 
 GRAPH
   apt (2.3.8)
-  balanced-supervisor (1.0.2)
+  balanced-supervisor (1.0.4)
     supervisor (~> 0.4.0)
   build-essential (2.0.0)
   python (1.4.6)
